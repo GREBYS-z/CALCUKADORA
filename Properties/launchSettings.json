@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CALCUKADORA": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
